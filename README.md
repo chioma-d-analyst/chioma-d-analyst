@@ -29,7 +29,7 @@ An interactive Power BI dashboard designed to analyze logistics operations and p
 
 **Tools:** Power BI, Power Query, DAX, Excel
 
-[View Project](YOUR-LOGISTICS-REPOSITORY-LINK)
+https://github.com/chioma-d-analyst/Logistics-Operations-dashboard-/blob/main/LOGISTICS%20OPERATIONS%20DASHBOARD.pdf
 
 ### 2. Strategic Sales Dashboard
 
