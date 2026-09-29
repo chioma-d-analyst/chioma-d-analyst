@@ -37,7 +37,7 @@ An interactive Power BI dashboard designed to present sales performance and key 
 
 **Tools:** Power BI, Power Query, DAX, Excel
 
-[View Project](YOUR-STRATEGIC-SALES-REPOSITORY-LINK)
+https://github.com/chioma-d-analyst/Strategic-Sales-Project-/blob/main/STRATEGIC%20SALES%20PROJECT.pdf
 
 ### 3. Excel Analysis Dashboard
 
@@ -46,6 +46,7 @@ An interactive Excel dashboard designed to analyze and present data through char
 **Tools:** Microsoft Excel
 
 https://github.com/chioma-d-analyst/Excel-sales-analysis-/blob/main/EXCEL%20DASHBOARD.PNG
+
 ## 📈 What I Enjoy
 
 - Turning data into meaningful insights
