@@ -45,7 +45,7 @@ An interactive Excel dashboard designed to analyze and present data through char
 
 **Tools:** Microsoft Excel
 
-[View Project](YOUR-EXCEL-REPOSITORY-LINK)
+https://github.com/chioma-d-analyst/Excel-sales-analysis-/blob/main/EXCEL%20DASHBOARD.PNG
 ## 📈 What I Enjoy
 
 - Turning data into meaningful insights
